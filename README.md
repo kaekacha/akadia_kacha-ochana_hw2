@@ -4,8 +4,6 @@ Hello! This is Akadia's repository for the completed homework assignment #2 for 
 
 1-BAS file for the VBA code
 
-2-Solved Excel file
-
-3-Three screenshots of the 2014, 2015, and 2016 80% view
+2-Three screenshots of the 2014, 2015, and 2016 80% view
 
 Thanks for stopping by!
